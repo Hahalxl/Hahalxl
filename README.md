@@ -7,5 +7,6 @@
     <li>C++</li>
     <li>Python</li>
     <li>Javascript, Css, Html</li>
+    <li>C (Possibly)</li>
   </ul>
 </div>
